@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=readitfuncstoragets;AccountKey=C2Dbf+qccAH0lXy/6nHhovNLPHgNfXAGaDe+WL2byFkOMKrS8wfPy0OoxryPAEVnv3J/rfuZBfC2+AStyUYBcQ==;EndpointSuffix=core.windows.net",
+    "CosmosDBConnection": "AccountEndpoint=https://readitcosmosdbtimmy.documents.azure.com:443/;AccountKey=bq6kV2QWCFCss14Kf747UjGfNybnBAj7zL6sw8KVdqoN8ySo1tcmTMnpDI05UjHY7ppPvGq0d87yACDbEdjfNQ==;",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=ordersreaditts;AccountKey=7t1RP3Yj4JBiEo2iBRS/wQ0drZGz0xoR6XtQyLWo1ZFPB0SVD1C+3KsWo1kqKL4nJOVGOLgmb4yO+AStKDJ0xg==;EndpointSuffix=core.windows.net"
+  }
+}
